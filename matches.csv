@@ -1,0 +1,215 @@
+Season,Tour,Time,Opponent,HoAw,ArsenalScore,OpponentScore,Stadium,Attendance,Coach,Referee
+2017/18,1,20:45:00,Leicester,home,4,3,Emirates Stadium,59387,Arsène Wenger,Mike Dean
+2017/18,2,18:30:00,Stoke City,away,0,1,bet365 Stadium,29459,Arsène Wenger,Andre Marriner
+2017/18,3,17:00:00,Liverpool,away,0,4,Anfield,53206,Arsène Wenger,Craig Pawson
+2017/18,4,16:00:00,Bournemouth,home,3,0,Emirates Stadium,59262,Arsène Wenger,Anthony Taylor
+2017/18,5,14:30:00,Chelsea,away,0,0,Stamford Bridge,41478,Arsène Wenger,Michael Oliver
+2017/18,6,21:00:00,West Brom,home,2,0,Emirates Stadium,59134,Arsène Wenger,Bobby Madley
+2017/18,7,13:00:00,Brighton,home,2,0,Emirates Stadium,59378,Arsène Wenger,Kevin Friend
+2017/18,8,18:30:00,Watford,away,1,2,Vicarage Road,20384,Arsène Wenger,Neil Swarbrick
+2017/18,9,14:30:00,Everton,away,5,2,Goodison Park,39189,Arsène Wenger,Craig Pawson
+2017/18,10,16:00:00,Swansea,home,2,1,Emirates Stadium,59493,Arsène Wenger,Lee Mason
+2017/18,11,15:15:00,Man City,away,1,3,Etihad Stadium,54286,Arsène Wenger,Michael Oliver
+2017/18,12,13:30:00,Tottenham,home,2,0,Emirates Stadium,59530,Arsène Wenger,Mike Dean
+2017/18,13,15:00:00,Burnley,away,1,0,Turf Moor,21722,Arsène Wenger,Lee Mason
+2017/18,14,20:45:00,Huddersfield,home,5,0,Emirates Stadium,59285,Arsène Wenger,Graham Scott
+2017/18,15,18:30:00,Man Utd,home,1,3,Emirates Stadium,59547,Arsène Wenger,Andre Marriner
+2017/18,16,13:00:00,Southampton,away,1,1,St Mary's Stadium,31643,Arsène Wenger,Bobby Madley
+2017/18,17,21:00:00,West Ham,away,0,0,London Stadium,56925,Arsène Wenger,Jonathan Moss
+2017/18,18,16:00:00,Newcastle,home,1,0,Emirates Stadium,59379,Arsène Wenger,Stuart Attwell
+2017/18,19,20:45:00,Liverpool,home,3,3,Emirates Stadium,59409,Arsène Wenger,Martin Atkinson
+2017/18,20,21:00:00,Crystal Palace,away,3,2,Selhurst Park,25762,Arsène Wenger,Michael Oliver
+2017/18,21,17:30:00,West Brom,away,1,1,The Hawthorns,26233,Arsène Wenger,Mike Dean
+2017/18,22,20:45:00,Chelsea,home,2,2,Emirates Stadium,59379,Arsène Wenger,Anthony Taylor
+2017/18,23,14:30:00,Bournemouth,away,1,2,Vitality Stadium,10836,Arsène Wenger,Kevin Friend
+2017/18,24,16:00:00,Crystal Palace,home,4,1,Emirates Stadium,59386,Arsène Wenger,Chris Kavanagh
+2017/18,25,20:45:00,Swansea,away,1,3,Swansea.com Stadium,20819,Arsène Wenger,Lee Mason
+2017/18,26,18:30:00,Everton,home,5,1,Emirates Stadium,59306,Arsène Wenger,Neil Swarbrick
+2017/18,27,13:30:00,Tottenham,away,0,1,Wembley Stadium,83222,Arsène Wenger,Anthony Taylor
+2017/18,28,20:45:00,Man City,home,0,3,Emirates Stadium,58420,Arsène Wenger,Andre Marriner
+2017/18,29,14:30:00,Brighton,away,1,2,AMEX Stadium,30620,Arsène Wenger,Stuart Attwell
+2017/18,30,14:30:00,Watford,home,3,0,Emirates Stadium,59131,Arsène Wenger,Martin Atkinson
+2017/18,32,14:30:00,Stoke City,home,3,0,Emirates Stadium,59371,Arsène Wenger,Craig Pawson
+2017/18,33,15:15:00,Southampton,home,3,2,Emirates Stadium,59374,Arsène Wenger,Andre Marriner
+2017/18,34,14:30:00,Newcastle,away,1,2,St James' Park,52210,Arsène Wenger,Anthony Taylor
+2017/18,35,14:30:00,West Ham,home,4,1,Emirates Stadium,59422,Arsène Wenger,Lee Mason
+2017/18,36,17:30:00,Man Utd,away,1,2,Old Trafford,75035,Arsène Wenger,Kevin Friend
+2017/18,37,17:30:00,Burnley,home,5,0,Emirates Stadium,59540,Arsène Wenger,Andre Marriner
+2017/18,31,20:45:00,Leicester,away,1,3,King Power Stadium,32095,Arsène Wenger,Graham Scott
+2017/18,38,16:00:00,Huddersfield,away,1,0,John Smith's Stadium,24122,Arsène Wenger,Michael Oliver
+2018/19,1,17:00:00,Man City,home,0,2,Emirates Stadium,59934,Unai Emery,Michael Oliver
+2018/19,2,18:30:00,Chelsea,away,2,3,Stamford Bridge,40491,Unai Emery,Martin Atkinson
+2018/19,3,16:00:00,West Ham,home,3,1,Emirates Stadium,59830,Unai Emery,Graham Scott
+2018/19,4,14:30:00,Cardiff,away,3,2,Cardiff City Stadium,32316,Unai Emery,Anthony Taylor
+2018/19,5,16:00:00,Newcastle,away,2,1,St James' Park,52165,Unai Emery,Lee Probert
+2018/19,6,17:00:00,Everton,home,2,0,Emirates Stadium,59964,Unai Emery,Jonathan Moss
+2018/19,7,16:00:00,Watford,home,2,0,Emirates Stadium,60019,Unai Emery,Anthony Taylor
+2018/19,8,13:00:00,Fulham,away,5,1,Craven Cottage,25401,Unai Emery,Paul Tierney
+2018/19,9,21:00:00,Leicester,home,3,1,Emirates Stadium,59886,Unai Emery,Chris Kavanagh
+2018/19,10,14:30:00,Crystal Palace,away,2,2,Selhurst Park,25718,Unai Emery,Martin Atkinson
+2018/19,11,18:30:00,Liverpool,home,1,1,Emirates Stadium,59993,Unai Emery,Andre Marriner
+2018/19,12,17:30:00,Wolves,home,1,1,Emirates Stadium,60030,Unai Emery,Stuart Attwell
+2018/19,13,14:30:00,Bournemouth,away,2,1,Vitality Stadium,10792,Unai Emery,Craig Pawson
+2018/19,14,15:05:00,Tottenham,home,4,2,Emirates Stadium,59973,Unai Emery,Mike Dean
+2018/19,15,21:00:00,Man Utd,away,2,2,Old Trafford,74507,Unai Emery,Andre Marriner
+2018/19,16,16:00:00,Huddersfield,home,1,0,Emirates Stadium,59893,Unai Emery,Paul Tierney
+2018/19,17,14:30:00,Southampton,away,2,3,St Mary's Stadium,29497,Unai Emery,Chris Kavanagh
+2018/19,18,13:30:00,Burnley,home,3,1,Emirates Stadium,59493,Unai Emery,Kevin Friend
+2018/19,19,18:15:00,Brighton,away,1,1,AMEX Stadium,30608,Unai Emery,Anthony Taylor
+2018/19,20,18:30:00,Liverpool,away,1,5,Anfield,53326,Unai Emery,Michael Oliver
+2018/19,21,16:00:00,Fulham,home,4,1,Emirates Stadium,59887,Unai Emery,Graham Scott
+2018/19,22,13:30:00,West Ham,away,0,1,London Stadium,59946,Unai Emery,Jonathan Moss
+2018/19,23,18:30:00,Chelsea,home,2,0,Emirates Stadium,59979,Unai Emery,Anthony Taylor
+2018/19,24,20:45:00,Cardiff,home,2,1,Emirates Stadium,59933,Unai Emery,Mike Dean
+2018/19,25,17:30:00,Man City,away,1,3,Etihad Stadium,54483,Unai Emery,Martin Atkinson
+2018/19,26,16:00:00,Huddersfield,away,2,1,John Smith's Stadium,24182,Unai Emery,Jonathan Moss
+2018/19,27,15:05:00,Southampton,home,2,0,Emirates Stadium,59877,Unai Emery,Graham Scott
+2018/19,28,20:45:00,Bournemouth,home,5,1,Emirates Stadium,59618,Unai Emery,Chris Kavanagh
+2018/19,29,13:30:00,Tottenham,away,1,1,Wembley Stadium,81332,Unai Emery,Anthony Taylor
+2018/19,30,17:30:00,Man Utd,home,2,0,Emirates Stadium,60000,Unai Emery,Jonathan Moss
+2018/19,32,21:00:00,Newcastle,home,2,0,Emirates Stadium,59869,Unai Emery,Anthony Taylor
+2018/19,33,15:05:00,Everton,away,0,1,Goodison Park,39400,Unai Emery,Kevin Friend
+2018/19,34,21:00:00,Watford,away,1,0,Vicarage Road,20480,Unai Emery,Craig Pawson
+2018/19,35,17:00:00,Crystal Palace,home,2,3,Emirates Stadium,59929,Unai Emery,Jonathan Moss
+2018/19,31,20:45:00,Wolves,away,1,3,Molineux Stadium,31436,Unai Emery,Stuart Attwell
+2018/19,36,13:00:00,Leicester,away,0,3,King Power Stadium,32037,Unai Emery,Michael Oliver
+2018/19,37,17:30:00,Brighton,home,1,1,Emirates Stadium,59965,Unai Emery,Anthony Taylor
+2018/19,38,16:00:00,Burnley,away,3,1,Turf Moor,21461,Unai Emery,Mike Dean
+2019/20,1,15:00:00,Newcastle,away,1,0,St James' Park,47635,Unai Emery,Martin Atkinson
+2019/20,2,13:30:00,Burnley,home,2,1,Emirates Stadium,60214,Unai Emery,Mike Dean
+2019/20,3,18:30:00,Liverpool,away,1,3,Anfield,53298,Unai Emery,Anthony Taylor
+2019/20,4,17:30:00,Tottenham,home,2,2,Emirates Stadium,60333,Unai Emery,Martin Atkinson
+2019/20,5,17:30:00,Watford,away,2,2,Vicarage Road,21360,Unai Emery,Anthony Taylor
+2019/20,6,17:30:00,Aston Villa,home,3,2,Emirates Stadium,60331,Unai Emery,Jonathan Moss
+2019/20,7,21:00:00,Man Utd,away,1,1,Old Trafford,73201,Unai Emery,Kevin Friend
+2019/20,8,15:00:00,Bournemouth,home,1,0,Emirates Stadium,60326,Unai Emery,Martin Atkinson
+2019/20,9,21:00:00,Sheff Utd,away,0,1,Bramall Lane,30775,Unai Emery,Mike Dean
+2019/20,10,17:30:00,Crystal Palace,home,2,2,Emirates Stadium,60345,Unai Emery,Martin Atkinson
+2019/20,11,16:00:00,Wolves,home,1,1,Emirates Stadium,60383,Unai Emery,Michael Oliver
+2019/20,12,18:30:00,Leicester,away,0,2,King Power Stadium,32209,Unai Emery,Chris Kavanagh
+2019/20,13,16:00:00,Southampton,home,2,2,Emirates Stadium,60295,Unai Emery,Stuart Attwell
+2019/20,14,15:00:00,Norwich,away,2,2,Carrow Road,27067,Freddie Ljungberg,Paul Tierney
+2019/20,15,21:15:00,Brighton,home,1,2,Emirates Stadium,60164,Freddie Ljungberg,Graham Scott
+2019/20,16,21:00:00,West Ham,away,3,1,London Stadium,59936,Freddie Ljungberg,Mike Dean
+2019/20,17,17:30:00,Man City,home,0,3,Emirates Stadium,60031,Freddie Ljungberg,Paul Tierney
+2019/20,18,13:30:00,Everton,away,0,0,Goodison Park,39336,Freddie Ljungberg,Kevin Friend
+2019/20,19,16:00:00,Bournemouth,away,1,1,Vitality Stadium,10234,Mikel Arteta,Stuart Attwell
+2019/20,20,15:00:00,Chelsea,home,1,2,Emirates Stadium,60309,Mikel Arteta,Craig Pawson
+2019/20,21,21:00:00,Man Utd,home,2,0,Emirates Stadium,60328,Mikel Arteta,Chris Kavanagh
+2019/20,22,13:30:00,Crystal Palace,away,1,1,Selhurst Park,25468,Mikel Arteta,Paul Tierney
+2019/20,23,16:00:00,Sheff Utd,home,1,1,Emirates Stadium,60310,Mikel Arteta,Mike Dean
+2019/20,24,21:15:00,Chelsea,away,2,2,Stamford Bridge,40577,Mikel Arteta,Stuart Attwell
+2019/20,25,15:00:00,Burnley,away,0,0,Turf Moor,21048,Mikel Arteta,Chris Kavanagh
+2019/20,26,17:30:00,Newcastle,home,4,0,Emirates Stadium,60188,Mikel Arteta,Lee Mason
+2019/20,27,17:30:00,Everton,home,3,2,Emirates Stadium,60296,Mikel Arteta,Stuart Attwell
+2019/20,29,16:00:00,West Ham,home,1,0,Emirates Stadium,60335,Mikel Arteta,Martin Atkinson
+2019/20,28,21:15:00,Man City,away,0,3,Etihad Stadium,0,Mikel Arteta,Anthony Taylor
+2019/20,30,16:00:00,Brighton,away,1,2,AMEX Stadium,0,Mikel Arteta,Martin Atkinson
+2019/20,31,19:00:00,Southampton,away,2,0,St Mary's Stadium,0,Mikel Arteta,Graham Scott
+2019/20,32,19:00:00,Norwich,home,4,0,Emirates Stadium,0,Mikel Arteta,Peter Bankes
+2019/20,33,18:30:00,Wolves,away,2,0,Molineux Stadium,0,Mikel Arteta,Michael Oliver
+2019/20,34,21:15:00,Leicester,home,1,1,Emirates Stadium,0,Mikel Arteta,Chris Kavanagh
+2019/20,35,17:30:00,Tottenham,away,1,2,Tottenham Hotspur Stadium,0,Mikel Arteta,Michael Oliver
+2019/20,36,21:15:00,Liverpool,home,2,1,Emirates Stadium,0,Mikel Arteta,Paul Tierney
+2019/20,37,21:15:00,Aston Villa,away,0,1,Villa Park,0,Mikel Arteta,Chris Kavanagh
+2019/20,38,17:00:00,Watford,home,3,2,Emirates Stadium,0,Mikel Arteta,Mike Dean
+2020/21,1,13:30:00,Fulham,away,3,0,Craven Cottage,0,Mikel Arteta,Chris Kavanagh
+2020/21,2,21:00:00,West Ham,home,2,1,Emirates Stadium,0,Mikel Arteta,Michael Oliver
+2020/21,3,21:00:00,Liverpool,away,1,3,Anfield,0,Mikel Arteta,Craig Pawson
+2020/21,4,15:00:00,Sheff Utd,home,2,1,Emirates Stadium,0,Mikel Arteta,Lee Mason
+2020/21,5,18:30:00,Man City,away,0,1,Etihad Stadium,0,Mikel Arteta,Chris Kavanagh
+2020/21,6,20:15:00,Leicester,home,0,1,Emirates Stadium,0,Mikel Arteta,Craig Pawson
+2020/21,7,17:30:00,Man Utd,away,1,0,Old Trafford,0,Mikel Arteta,Mike Dean
+2020/21,8,20:15:00,Aston Villa,home,0,3,Emirates Stadium,0,Mikel Arteta,Martin Atkinson
+2020/21,9,17:30:00,Leeds,away,0,0,Elland Road,0,Mikel Arteta,Anthony Taylor
+2020/21,10,20:15:00,Wolves,home,1,2,Emirates Stadium,0,Mikel Arteta,Michael Oliver
+2020/21,11,17:30:00,Tottenham,away,0,2,Tottenham Hotspur Stadium,2000,Mikel Arteta,Martin Atkinson
+2020/21,12,20:15:00,Burnley,home,0,1,Emirates Stadium,0,Mikel Arteta,Graham Scott
+2020/21,13,19:00:00,Southampton,home,1,1,Emirates Stadium,0,Mikel Arteta,Paul Tierney
+2020/21,14,18:30:00,Everton,away,1,2,Goodison Park,2000,Mikel Arteta,Andre Marriner
+2020/21,15,18:30:00,Chelsea,home,3,1,Emirates Stadium,0,Mikel Arteta,Michael Oliver
+2020/21,16,19:00:00,Brighton,away,1,0,AMEX Stadium,0,Mikel Arteta,Martin Atkinson
+2020/21,17,21:00:00,West Brom,away,4,0,The Hawthorns,0,Mikel Arteta,Martin Atkinson
+2020/21,18,21:00:00,Crystal Palace,home,0,0,Emirates Stadium,0,Mikel Arteta,Andre Marriner
+2020/21,19,21:00:00,Newcastle,home,3,0,Emirates Stadium,0,Mikel Arteta,David Coote
+2020/21,20,21:15:00,Southampton,away,3,1,St Mary's Stadium,0,Mikel Arteta,Kevin Friend
+2020/21,21,18:30:00,Man Utd,home,0,0,Emirates Stadium,0,Mikel Arteta,Michael Oliver
+2020/21,22,19:00:00,Wolves,away,1,2,Molineux Stadium,0,Mikel Arteta,Craig Pawson
+2020/21,23,13:30:00,Aston Villa,away,0,1,Villa Park,0,Mikel Arteta,Chris Kavanagh
+2020/21,24,17:30:00,Leeds,home,4,2,Emirates Stadium,0,Mikel Arteta,Stuart Attwell
+2020/21,25,17:30:00,Man City,home,0,1,Emirates Stadium,0,Mikel Arteta,Jonathan Moss
+2020/21,26,13:00:00,Leicester,away,3,1,King Power Stadium,0,Mikel Arteta,Paul Tierney
+2020/21,27,13:30:00,Burnley,away,1,1,Turf Moor,0,Mikel Arteta,Andre Marriner
+2020/21,28,17:30:00,Tottenham,home,2,1,Emirates Stadium,0,Mikel Arteta,Michael Oliver
+2020/21,29,16:00:00,West Ham,away,3,3,London Stadium,0,Mikel Arteta,Jonathan Moss
+2020/21,30,21:00:00,Liverpool,home,0,3,Emirates Stadium,0,Mikel Arteta,Stuart Attwell
+2020/21,31,20:00:00,Sheff Utd,away,3,0,Bramall Lane,0,Mikel Arteta,Peter Bankes
+2020/21,32,14:30:00,Fulham,home,1,1,Emirates Stadium,0,Mikel Arteta,Craig Pawson
+2020/21,33,21:00:00,Everton,home,0,1,Emirates Stadium,0,Mikel Arteta,Jonathan Moss
+2020/21,34,15:00:00,Newcastle,away,2,0,St James' Park,0,Mikel Arteta,Mike Dean
+2020/21,35,20:00:00,West Brom,home,3,1,Emirates Stadium,0,Mikel Arteta,Peter Bankes
+2020/21,36,21:15:00,Chelsea,away,1,0,Stamford Bridge,0,Mikel Arteta,Andre Marriner
+2020/21,37,20:00:00,Crystal Palace,away,3,1,Selhurst Park,6500,Mikel Arteta,Anthony Taylor
+2020/21,38,17:00:00,Brighton,home,2,0,Emirates Stadium,10000,Mikel Arteta,Jonathan Moss
+2021/22,1,21:00:00,Brentford,away,0,2,Brentford Community Stadium  ,16479,Mikel Arteta,Michael Oliver
+2021/22,2,17:30:00,Chelsea,home,0,2,Emirates Stadium,58729,Mikel Arteta,Paul Tierney
+2021/22,3,13:30:00,Man City,away,0,5,Etihad Stadium,52276,Mikel Arteta,Martin Atkinson
+2021/22,4,16:00:00,Norwich,home,1,0,Emirates Stadium,60000,Mikel Arteta,Michael Oliver
+2021/22,5,16:00:00,Burnley,away,1,0,Turf Moor,21944,Mikel Arteta,Anthony Taylor
+2021/22,6,17:30:00,Tottenham,home,3,1,Emirates Stadium,59919,Mikel Arteta,Craig Pawson
+2021/22,7,18:30:00,Brighton,away,0,0,AMEX Stadium,31266,Mikel Arteta,Jonathan Moss
+2021/22,8,21:00:00,Crystal Palace,home,2,2,Emirates Stadium,59475,Mikel Arteta,Mike Dean
+2021/22,9,21:00:00,Aston Villa,home,3,1,Emirates Stadium,59496,Mikel Arteta,Craig Pawson
+2021/22,10,13:30:00,Leicester,away,2,0,King Power Stadium,32209,Mikel Arteta,Michael Oliver
+2021/22,11,15:00:00,Watford,home,1,0,Emirates Stadium,59833,Mikel Arteta,Kevin Friend
+2021/22,12,18:30:00,Liverpool,away,0,4,Anfield,53092,Mikel Arteta,Michael Oliver
+2021/22,13,13:30:00,Newcastle,home,2,0,Emirates Stadium,59886,Mikel Arteta,Stuart Attwell
+2021/22,14,21:15:00,Man Utd,away,2,3,Old Trafford,73123,Mikel Arteta,Martin Atkinson
+2021/22,15,21:00:00,Everton,away,1,2,Goodison Park,38906,Mikel Arteta,Mike Dean
+2021/22,16,16:00:00,Southampton,home,3,0,Emirates Stadium,59653,Mikel Arteta,Jarred Gillett
+2021/22,17,21:00:00,West Ham,home,2,0,Emirates Stadium,59777,Mikel Arteta,Anthony Taylor
+2021/22,18,18:30:00,Leeds,away,4,1,Elland Road,36166,Mikel Arteta,Andre Marriner
+2021/22,19,16:00:00,Norwich,away,5,0,Carrow Road,26940,Mikel Arteta,Graham Scott
+2021/22,21,13:30:00,Man City,home,1,2,Emirates Stadium,59757,Albert Stuivenberg,Stuart Attwell
+2021/22,23,15:00:00,Burnley,home,0,0,Emirates Stadium,59255,Mikel Arteta,David Coote
+2021/22,24,20:45:00,Wolves,away,1,0,Molineux Stadium,31523,Mikel Arteta,Michael Oliver
+2021/22,26,16:00:00,Brentford,home,2,1,Emirates Stadium,60015,Mikel Arteta,Jonathan Moss
+2021/22,20,20:45:00,Wolves,home,2,1,Emirates Stadium,59888,Mikel Arteta,Martin Atkinson
+2021/22,28,15:00:00,Watford,away,3,2,Vicarage Road,21142,Mikel Arteta,Craig Pawson
+2021/22,29,17:30:00,Leicester,home,2,0,Emirates Stadium,60111,Mikel Arteta,Anthony Taylor
+2021/22,27,21:15:00,Liverpool,home,0,2,Emirates Stadium,59968,Mikel Arteta,Andre Marriner
+2021/22,30,13:30:00,Aston Villa,away,1,0,Villa Park,41956,Mikel Arteta,Andrew Madley
+2021/22,31,21:00:00,Crystal Palace,away,0,3,Selhurst Park,25149,Mikel Arteta,Paul Tierney
+2021/22,32,16:00:00,Brighton,home,1,2,Emirates Stadium,60112,Mikel Arteta,David Coote
+2021/22,33,16:00:00,Southampton,away,0,1,St Mary's Stadium,31465,Mikel Arteta,Peter Bankes
+2021/22,25,20:45:00,Chelsea,away,4,2,Stamford Bridge,32249,Mikel Arteta,Jonathan Moss
+2021/22,34,13:30:00,Man Utd,home,3,1,Emirates Stadium,60223,Mikel Arteta,Craig Pawson
+2021/22,35,17:30:00,West Ham,away,2,1,London Stadium,59959,Mikel Arteta,Mike Dean
+2021/22,36,15:00:00,Leeds,home,2,1,Emirates Stadium,60108,Mikel Arteta,Chris Kavanagh
+2021/22,22,20:45:00,Tottenham,away,0,3,Tottenham Hotspur Stadium,62027,Mikel Arteta,Paul Tierney
+2021/22,37,21:00:00,Newcastle,away,0,2,St James' Park,52274,Mikel Arteta,Darren England
+2021/22,38,17:00:00,Everton,home,5,1,Emirates Stadium,60201,Mikel Arteta,Andre Marriner
+2022/23,1,21:00:00,Crystal Palace,away,2,0,Selhurst Park,25286,Mikel Arteta,Anthony Taylor
+2022/23,2,16:00:00,Leicester,home,4,2,Emirates Stadium,60033,Mikel Arteta,Darren England
+2022/23,3,18:30:00,Bournemouth,away,3,0,Vitality Stadium,10423,Mikel Arteta,Craig Pawson
+2022/23,4,18:30:00,Fulham,home,2,1,Emirates Stadium,60164,Mikel Arteta,Jarred Gillett
+2022/23,5,20:30:00,Aston Villa,home,2,1,Emirates Stadium,60012,Mikel Arteta,Robert Jones
+2022/23,6,17:30:00,Man Utd,away,1,3,Old Trafford,74310,Mikel Arteta,Paul Tierney
+2022/23,8,15:00:00,Brentford,away,3,0,Brentford Community Stadium  ,17122,Mikel Arteta,David Coote
+2022/23,9,13:30:00,Tottenham,home,3,1,Emirates Stadium,60278,Mikel Arteta,Anthony Taylor
+2022/23,10,17:30:00,Liverpool,home,3,2,Emirates Stadium,60059,Mikel Arteta,Michael Oliver
+2022/23,11,15:00:00,Leeds,away,1,0,Elland Road,36700,Mikel Arteta,Chris Kavanagh
+2022/23,13,15:00:00,Southampton,away,1,1,St Mary's Stadium,31145,Mikel Arteta,Robert Jones
+2022/23,14,15:00:00,Nottingham Forest,home,5,0,Emirates Stadium,60263,Mikel Arteta,Simon Hooper
+2022/23,15,13:00:00,Chelsea,away,1,0,Stamford Bridge,40142,Mikel Arteta,Michael Oliver
+2022/23,16,20:45:00,Wolves,away,2,0,Molineux Stadium,34624,Mikel Arteta,Stuart Attwell
+2022/23,17,21:00:00,West Ham,home,3,1,Emirates Stadium,60125,Mikel Arteta,Michael Oliver
+2022/23,18,18:30:00,Brighton,away,4,2,AMEX Stadium,31647,Mikel Arteta,Anthony Taylor
+2022/23,19,20:45:00,Newcastle,home,0,0,Emirates Stadium,60319,Mikel Arteta,Andrew Madley
+2022/23,20,17:30:00,Tottenham,away,2,0,Tottenham Hotspur Stadium,61870,Mikel Arteta,Craig Pawson
+2022/23,21,17:30:00,Man Utd,home,3,2,Emirates Stadium,60325,Mikel Arteta,Anthony Taylor
+2022/23,22,13:30:00,Everton,away,0,1,Goodison Park,39314,Mikel Arteta,David Coote
+2022/23,23,16:00:00,Brentford,home,1,1,Emirates Stadium,60254,Mikel Arteta,Peter Bankes
+2022/23,12,20:30:00,Man City,home,1,3,Emirates Stadium,60276,Mikel Arteta,Anthony Taylor
+2022/23,24,13:30:00,Aston Villa,away,4,2,Villa Park,42066,Mikel Arteta,Simon Hooper
+2022/23,25,16:00:00,Leicester,away,1,0,King Power Stadium,32227,Mikel Arteta,Craig Pawson
